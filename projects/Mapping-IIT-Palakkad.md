@@ -13,6 +13,15 @@ their cartographic needs. The project aim is to map IIT Palakkad and
 its locality. This can solve some of our navigational problems in the
 campus.
 
+## Background knowledge
+
+There is very little programming experience that you will need for
+this project. A lot of contributions can be done just by looking at
+the satellite image based interface on the [OpenStreetMap]. If you
+travel a lot and use gps devices you can create roads by appropriate gps
+traces. For more details please check the the wikipage
+http://wiki.openstreetmap.org/wiki/Contribute_map_data
+
 ## How to contribute?
 
 1. You will need to create a username on the
@@ -35,6 +44,5 @@ Let loose the cartographer in you.
 ## Future work.
 
 Building applications that make use of these data.
-
 
 [openstreetmap]: <http://www.openstreetmap.org>
