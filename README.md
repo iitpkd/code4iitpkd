@@ -7,8 +7,8 @@ can solve some of the needs of the institute with out any outside
 help. Besides solving these problems, it gives a taste of executing a
 project that has real life impact.
 
-Besides ideas, we will also collect some getting started articles here
-or in the associated wiki.
+We also collect some getting started articles here or in the
+associated wiki.
 
 ## How to start a new project ?
 
